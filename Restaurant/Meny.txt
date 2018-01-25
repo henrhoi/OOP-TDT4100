@@ -1,0 +1,12 @@
+Pølser
+200 Gluten,melk
+ 
+Taco
+500 Gluten
+ 
+Suppe
+30 None
+ 
+Biff
+5 Peanøtter,kjøtt
+ 
