@@ -1,5 +1,7 @@
 package oving5;
 
+__author__ = "Henrik Høiness"
+
 public class Card {
 	private char cardSuit;
 	private int cardValue;
