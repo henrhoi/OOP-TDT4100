@@ -1,2 +1,2 @@
 # OOP-TDT4100
-Øvinger i Objektorientert programmering i Java - TDT4100
+Assignments in Object-Oriented Programming in Java - TDT4100
